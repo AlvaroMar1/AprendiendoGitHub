@@ -1,9 +1,7 @@
-
-{
-  "firstName": "Alvaro",
-  "lastName": "Moreno",
-  "age": 22
-}
+| VIDEOJUEGOS   | Goty? |
+|---------------|-------|
+| Expedition 33 | SI    |
+| Elden Ring    | NO    | 
 
 
 # PROYECTO APRENDIENDO GITHUB 
