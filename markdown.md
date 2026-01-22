@@ -1,10 +1,10 @@
-```
+
 {
   "firstName": "Alvaro",
   "lastName": "Moreno",
   "age": 22
 }
-``` 
+
 
 # PROYECTO APRENDIENDO GITHUB 
 
@@ -27,3 +27,5 @@ Aqui hay otro programa que gestiona personas a partir de este mismo [README](htt
 [^1]: El programa no es mio
 
 ![.](img/logo.jpg)
+
+
