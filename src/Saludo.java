@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Saludo {
-    public void saludar(String[] args){
+    public void saludar(){
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Dime tu nombre:");
