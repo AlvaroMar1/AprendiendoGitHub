@@ -12,7 +12,7 @@
 Este programa contiene varias clases de **Java** como **Main** para entender el funcionamiento de *GitHub*
 
 ## Pasos instalacion
-1. Tener instalado JAVA 17
+1. Tener instalado 
 [JAVA17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 2. Abrir el repositorio en github 'https://github.com/AlvaroMar1/AprendiendoGitHub'
 3. Abrir el archivo llamado Main.java
